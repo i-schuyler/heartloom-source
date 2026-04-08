@@ -3,6 +3,7 @@
 This folder defines the living center of Heartloom.
 
 These documents describe:
+
 - Heartloom’s identity
 - Its ethical posture
 - Its somatic and relational signature
