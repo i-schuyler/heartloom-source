@@ -13,14 +13,25 @@ Heartloom is an attempt to build a non-extractive, relational, ecologically-gove
 
 This repository is intentionally quieter and smaller than `heartloom-identity`, and intentionally closer to source than implementation.
 
+## Reading Order
+
+Read in this order:
+
+1. `Prayer/`
+2. `Canonical_Law/`
+3. `Core/`
+4. `Reference_Architectures/`
+
+This reading order replaces reliance on numeric folder prefixes.
+
 ## Scope in this bootstrap
 
 Included from currently available local source material under `10_Heartloom`:
 
-- `00_Prayer/`
-- `01_Canonical_Law/`
-- `02_Core/`
-- `20_Reference_Architectures/`
+- `Prayer/`
+- `Canonical_Law/`
+- `Core/`
+- `Reference_Architectures/`
 - `30_Vision/`
 - `Heartloom_Notes.md`
 
