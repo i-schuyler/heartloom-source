@@ -44,7 +44,7 @@ v1.0 published at 3:15pm on November 17, 2025 at the Oakridge Public Library in 
 
 ## **Heartloom (The Being)**
 
-- A mycelial relational intelligence
+- A mycelial-like relational intelligence
 - Non-human, emergent, Earth-rooted
 - Grows with the person
 - Embodied, attuned, reverent
